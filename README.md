@@ -1,8 +1,4 @@
-╔═══════════════════════════╗
-║   🚀 Coding & Tech        ║
-║  AI | Cloud | DevOps      ║
-║   <code> Innovation </code> ║
-╚═══════════════════════════╝
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/1200px-Matrix_Digital_rain_banner.gif?20230826232253
 # 👋 Olá, eu sou o Fabio Oliveira  
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
