@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="URL_DO_SEU_BANNER" alt="Banner do Fabio" width="800"/>
-  <br>
-  <img src="URL_DO_AVATAR" alt="Avatar do Fabio" width="150"/>
-</p>
-
+╔═══════════════════════════╗
+║   🚀 Coding & Tech        ║
+║  AI | Cloud | DevOps      ║
+║   <code> Innovation </code> ║
+╚═══════════════════════════╝
 # 👋 Olá, eu sou o Fabio Oliveira  
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
