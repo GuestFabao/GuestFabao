@@ -32,12 +32,14 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🚗 Gerenciado de Funilaria
-🌐 https://gerenciado-de-funilaria.vercel.app
+## 🚗 Gerenciado de Funilaria
 
-<a href="https://gerenciado-de-funilaria.vercel.app">
-  <img src="images/funilaria-demo.gif" width="800">
-</a>
+[![Preview do Projeto](images/funilaria-preview.png)](https://gerenciado-de-funilaria.vercel.app)
+
+Sistema para criação e gerenciamento de orçamentos automotivos.
+
+🔗 Acessar: https://gerenciado-de-funilaria.vercel.app
+
 
 ### 🥋 Sistema de Gestão de Academia
 🌐 https://osstrack.vercel.app
