@@ -35,6 +35,10 @@
 ### 🚗 Gerenciado de Funilaria
 🌐 https://gerenciado-de-funilaria.vercel.app
 
+<a href="https://gerenciado-de-funilaria.vercel.app">
+  <img src="images/funilaria-demo.gif" width="800">
+</a>
+
 ### 🥋 Sistema de Gestão de Academia
 🌐 https://osstrack.vercel.app
 
