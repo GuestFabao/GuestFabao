@@ -44,7 +44,7 @@ Sistema para criação e gerenciamento de orçamentos automotivos.
 ### 🥋 Sistema de Gestão de Academia
 
 
-[![Preview do Projeto](images/oos-track.png)](https://osstrack.vercel.app/)
+[![Preview do Projeto](images/oss-track.png)](https://osstrack.vercel.app/)
 
 Sistema para criação e gerenciamento de presença..
 
