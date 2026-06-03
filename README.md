@@ -31,8 +31,9 @@
 ---
 
 ## 📊 Minhas estatísticas do GitHub
-![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=GuestFabao&show_icons=true&theme=dracula)
-![Fabio GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuestFabao&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuestFabao&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuestFabao&layout=compact&theme=github_dark)
 
 ---
 
