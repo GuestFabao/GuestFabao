@@ -49,9 +49,8 @@ Sistema para criação e gerenciamento de orçamentos automotivos.
 Sistema para criação e gerenciamento de presença..
 
 🔗 Acessar: https://gerenciado-de-funilaria.vercel.app
-📁 Pages
 
-🌐 https://guestfabao.github.io/Gerenciado_de_Funilaria/
+
 
 
 
