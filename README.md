@@ -30,11 +30,18 @@
 
 ---
 
-## 📊 Minhas estatísticas do GitHub
+## 🚀 Projetos em Destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuestFabao&show_icons=true&theme=github_dark&cache_seconds=86400)
+### 🚗 Gerenciado de Funilaria
+🌐 https://gerenciado-de-funilaria.vercel.app
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuestFabao&layout=compact&theme=github_dark&cache_seconds=86400)
+### 🥋 Sistema de Gestão de Academia
+🌐 https://osstrack.vercel.app
+
+📁 Pages
+🌐 https://guestfabao.github.io/Gerenciado_de_Funilaria/
+
+
 
 ---
 
