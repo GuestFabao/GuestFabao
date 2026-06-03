@@ -41,14 +41,15 @@ Sistema para criação e gerenciamento de orçamentos automotivos.
 🔗 Acessar: https://gerenciado-de-funilaria.vercel.app
 
 
+
 ### 🥋 Sistema de Gestão de Academia
 
 
 [![Preview do Projeto](images/oss-track.png)](https://osstrack.vercel.app/)
 
-Sistema para criação e gerenciamento de presença..
+Sistema para criação e gerenciamento de presença.
 
-🔗 Acessar: https://gerenciado-de-funilaria.vercel.app
+🔗 Acessar: https://osstrack.vercel.app/
 
 
 
