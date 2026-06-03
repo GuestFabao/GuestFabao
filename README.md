@@ -34,7 +34,7 @@
 
 ## 🚗 Gerenciado de Funilaria
 
-                             [![Preview do Projeto](images/funilaria-preview.png)](https://gerenciado-de-funilaria.vercel.app)
+[![Preview do Projeto](images/funilaria-preview.png)](https://gerenciado-de-funilaria.vercel.app)
 
 Sistema para criação e gerenciamento de orçamentos automotivos.
 
@@ -44,7 +44,7 @@ Sistema para criação e gerenciamento de orçamentos automotivos.
 ### 🥋 Sistema de Gestão de Academia
 
 
-                             [![Preview do Projeto](images/oos-track.png)](https://osstrack.vercel.app/)
+[![Preview do Projeto](images/oos-track.png)](https://osstrack.vercel.app/)
 
 Sistema para criação e gerenciamento de presença..
 
